@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="ARGENTINA",ARG DEP | DIRECTV SPORTS
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7978
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | DIRECTV SPORTS 2" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_DTV_Sports2_2018.png.cce0ab1b6242dfc10c04dc60639979e5.png" group-title="ARGENTINA",ARG DEP | DIRECTV SPORTS 2
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/54113
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | DIRECTV SPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="ARGENTINA",ARG DEP | DIRECTV SPORTS PLUS
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/54115
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="ARGENTINA",ARG DEP | ESPN
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7972
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="ARGENTINA",ARG DEP | ESPN 2
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7973
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN 3" tvg-logo="https://www.logolynx.com/images/logolynx/50/504ccfce10015733c0739bfb9a9f59b4.png" group-title="ARGENTINA",ARG DEP | ESPN 3
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7974
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | ESPN PLUS" tvg-logo="https://secure.espncdn.com/watchespn/images/espnplus/paywalls/ESPN_PLUS.logo@2x.png" group-title="ARGENTINA",ARG DEP | ESPN PLUS
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/54114
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | FOX SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="ARGENTINA",ARG DEP | FOX SPORTS  1
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8772
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | FOX SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="ARGENTINA",ARG DEP | FOX SPORTS  2
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7970
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | FOX SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="ARGENTINA",ARG DEP | FOX SPORTS  3
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8773
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="ARGENTINA",ARG DEP | FOX SPORTS PREMIUM
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7968
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="ARGENTINA",ARG DEP | TNT SPORTS
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7967
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | TYC SPORTS" tvg-logo="http://144.217.91.146/Logos/Argentina/tyc-sports.png" group-title="ARGENTINA",ARG DEP | TYC SPORTS
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/7979
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | AYM SPORTS" tvg-logo="https://pescaendirecto.com/wp-content/uploads/easy_logo_slider/498508Logo-AYM.png" group-title="MEXICO",MX DEP | AYM SPORTS
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6669
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | ESPN 1 HD" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="MEXICO",MX DEP | ESPN 1 HD
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6676
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | ESPN 2 HD" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="MEXICO",MX DEP | ESPN 2 HD
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6677
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | ESPN 3 HD" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="MEXICO",MX DEP | ESPN 3 HD
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6678
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | FOX SPORTS 1 HD" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="MEXICO",MX DEP | FOX SPORTS 1 HD
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6673
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | FOX SPORTS 2 HD" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="MEXICO",MX DEP | FOX SPORTS 2 HD
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6674
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | FOX SPORTS 3 HD" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="MEXICO",MX DEP | FOX SPORTS 3 HD
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6675
+#EXTINF:-1 tvg-id="" tvg-name="MX DEP | TVC DEPORTES" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190320114903/tvc_deportes.png" group-title="MEXICO",MX DEP | TVC DEPORTES
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/6670
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 10" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 10
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3259
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 11" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 11
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3258
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 12" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 12
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3257
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 13" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 13
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3256
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 14" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 14
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3255
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 15" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 15
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3254
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 16" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 16
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3253
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba League Pass 2" tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SOLO EVENTO",NBA | Nba League Pass 2
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3265
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba League Pass 3" tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SOLO EVENTO",NBA | Nba League Pass 3
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3264
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba League Pass 4" tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SOLO EVENTO",NBA | Nba League Pass 4
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3263
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba League Pass 5" tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SOLO EVENTO",NBA | Nba League Pass 5
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3262
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba League Pass 6" tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SOLO EVENTO",NBA | Nba League Pass 6
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3261
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba League Pass 7" tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SOLO EVENTO",NBA | Nba League Pass 7
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3260
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 8" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 8
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3252
+#EXTINF:-1 tvg-id="" tvg-name="NBA | Nba league pass 9" tvg-logo="http://content.sportslogos.net/news/2017/07/New-NBA-Logo-1.png" group-title="NBA SOLO EVENTO",NBA | Nba league pass 9
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3251
+#EXTINF:-1 tvg-id="" tvg-name="NBA | NBA TV" tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA SOLO EVENTO",NBA | NBA TV
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/3266
